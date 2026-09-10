@@ -17,6 +17,3 @@ Built a full-stack AI-powered real estate prediction system using microservice a
 
 ## 🧠 Architecture
 React → Node → Flask → ML → MongoDB
-
-## 💡 Author
-Rishi
